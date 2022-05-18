@@ -2,29 +2,29 @@
 
 
 
-; ; 2022-04 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总 (KB5012670)
+; ;2022-05 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
 
-_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu
-
-
-
-; 2022-04 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总 (KB5012670)
-
-_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
+_8.1x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu
 
 
 
+; 2022-05 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
+
+_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu
 
 
-; 2022-01 适用于 Windows 8.1 基于 x64 系统的仅安全更新
-
-_only_8.1x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x64_9d5677ca5e865931bc908b13139bf266ccbf2922.msu
 
 
 
-; 2022-01 适用于 Windows 8.1 基于 x86 系统的仅安全更新
+; 2022-05 适用于 Windows 8.1 基于 x64 系统的仅安全更新
 
-_only_8.1x32=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009595-x86_0abd994a738f52e7afa8b2f59964c49fa3f9828e.msu
+_only_8.1x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014001-x64_78a3e7e7a7c0a563c217156cca0a4cd55d770064.msu
+
+
+
+;  2022-05 适用于 Windows 8.1 基于 x86 系统的仅安全更新
+
+_only_8.1x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014001-x64_78a3e7e7a7c0a563c217156cca0a4cd55d770064.msu
 
 
 
@@ -38,14 +38,16 @@ _1809x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/softwar
 
 _1809x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013941-x86_2cc1ab49968b97f690c0db7c6aa5b830de728d85.msu
 
-; 2022-适用于 Windows 10 Version 21H2 的 01 累积更新，适合基于 x86 的系统 
-_21H2x32=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009543-x86_69e8ed8913acd957d9bd3ab9ccaf0eabeaeb7aea.msu
+; 2022-05 适用于 Windows 10 Version 21H2 的 05 累积更新，适合基于 x86 的系统
+_21H2x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x86_0f75e54848366a2669827a2855a47c13035c24d3.msu
 
-; 2022-适用于 Windows 10 Version 21H2 的 01 累积更新，适合基于 x64 的系统 
-_21H2x64=http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows10.0-kb5009543-x64_c7b660efcaaa2dd1d55fe91c5cea3d9b209a15cd.msu
 
-; 2022-05 适用于 Windows 10 Version 1607 基于 x64 系统的累积更新 (KB5013952)
+; 2022-05 适用于 Windows 10 Version 21H2 的 05 累积更新，适合基于 x64 的系统 
+_21H2x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013942-x64_6dc7730c205a77a68542e68a70e683b079662226.msu
+
+; 2022-05 适用于 Windows 10 Version 1607 的 05 累积更新，适合基于 x64 的系统
 _1607x64=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x64_c9c29b4a81897db5545e284f04490c0659dc8b06.msu
 
-; 2022-05 适用于 Windows 10 Version 1607 基于 x86 系统的累积更新 (KB5013952)
-_1607x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu
+; 2022-05 适用于 Windows 10 Version 1607 的 05 累积更新，适合基于 x86 的系统
+_1607x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x64_c9c29b4a81897db5545e284f04490c0659dc8b06.msu
+
